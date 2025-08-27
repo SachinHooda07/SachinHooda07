@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hoodasachin271@gmail.com**
 
-- ⚡ Fun fact **I am a Developer 💻**
+- ⚡ Fun fact **I am a Developer 💻😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
