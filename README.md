@@ -7,6 +7,11 @@
 
 - 🌱 I’m currently learning **MERN Full Stack Developer Course from Ducat The IT Training School (South Extension-1 New Delhi-110049)**
 
+- 🔍 What I Focus On:
+- ⚡ Clean, maintainable, and scalable code
+- 🎨 Creating seamless UI/UX experiences
+- 🚀 Performance optimization & accessibility
+
 - 💬 Ask me about **Html5, CSS3, Bootstrap, JavaScript, Es6, React, Redux**
 
 - 📫 How to reach me **hoodasachin271@gmail.com**
