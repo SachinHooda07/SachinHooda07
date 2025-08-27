@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinhooda07&label=Profile%20views&color=0e75b6&style=flat" alt="sachinhooda07" /> </p>
 
-- 🌱 I’m currently learning **MERN Full Stack Developer Course from Ducat The IT Training School**
+- 🌱 I’m currently learning **MERN Full Stack Developer Course from Ducat The IT Training School (South Extension-1 New Delhi-110049)**
 
 - 💬 Ask me about **Html5, CSS3, Bootstrap, JavaScript, Es6, React, Redux**
 
